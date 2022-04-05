@@ -1,1 +1,1 @@
-# typescrito-react
+# typescrit-react
